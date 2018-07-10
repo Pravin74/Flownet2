@@ -1,4 +1,4 @@
 python/caffe/_caffe.so
 *.pyc
 .build
-models/*
+models_bak/*
